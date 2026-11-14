@@ -13,7 +13,8 @@
   "files": [
     "Polytheism.js",
     "Polytheism.d.ts",
-    "Polytheism.js.map"
+    "Polytheism.js.map",
+    "Polytheism.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
